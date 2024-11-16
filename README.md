@@ -20,7 +20,7 @@ This thesis explores the transformative potential of **Unmanned Aerial Vehicles 
 - **Cloud and Edge Computing**: Discussed for improving data processing efficiency and scalability.
 
 ## Files Included
-- **[Thesis.pdf](./Thesis.pdf)**: Full thesis document providing an in-depth exploration of the topic.
+- **[Thesis PDF](./Data-Driven%20Insights%20Through%20Drones%20-%20Current%20Applications%2C%20Challenges%2C%20and%20Future%20Prospects.pdf)**: Full thesis document providing an in-depth exploration of the topic.
 
 ## Challenges and Solutions
 - **Challenges**:
